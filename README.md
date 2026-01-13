@@ -13,5 +13,6 @@ make the automatic script for large amount of complex for Alpha Multimer predict
   -i /mnt/nvme/complexs \
   -o /home/Ubuntu/archive \
   --local-root /mnt/nvme \
+  --db /home/ubuntu/colab_fold_db \
   --threads 20 \
-  --gpu 0
+  --gpu 1
