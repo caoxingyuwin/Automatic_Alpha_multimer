@@ -4,7 +4,7 @@ make the automatic script for large amount of complex for AlphaFold Multimer pre
 # Usage:
   $0 -i <input_fasta_or_dir> -o <archive_output_root> [options]
 
-Required:
+# Required:
   -i    Input fasta file OR directory containing fasta files
   -o    Output archive root directory (recommended: network disk)
 
